@@ -27,7 +27,7 @@ $ git clone git@github.com:pcioga/nestsi17-[your name].git
 Challenge
 ---------
 
-### Build a static web page
+### 1. Build a static web page
 
 Here's a simple demonstration of a Web Application where you can just add people to a directory.
 
@@ -39,14 +39,14 @@ Here's a simple demonstration of a Web Application where you can just add people
 Fell free to use any CSS frameworks like Bootstrap, Foundation and similar if you are familiar with any.
 
 
-### Build a dynamic web application
+### 2. Build a dynamic web application
 
-2. Now that the main components are in place, continue by adding some dynamic to your application. Try to dinamically serve the contents displayed on the page from a Data Base.
+Now that the main components are in place, continue by adding some dynamic to your application. Try to dinamically serve the contents displayed on the page from a Data Base.
 
 You are free to choose any kind of technologies you're familiar with to achieve this task, be it **Ruby on Rails**, **Sinatra**, **ExpressJS**, **Django**, or any other.
 Also, use whatever DataBase you're used to, be it Relational such as **PostgreSQL** and **MySQL**, document based such as **MongoDB** or any other.
 
-2.1. Bring in a new feature by letting people beeing add to the directory using the form at the end of the page.  
+Bring in a new feature by letting people beeing add to the directory using the form at the end of the page.  
 > If you're unfamiliar with server-side web frameworks, try to use Javascript to implement the same functionality.
 
 Extra:
