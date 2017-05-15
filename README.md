@@ -55,7 +55,7 @@ Done already? You must be some kind of genius! Here are a couple of small challe
 
 - Create validations for the form fields
 - On the user card, make the email links fully functional (click to send an email)
-- Make the search bar usefull by implementing user filtering
+- Make the search bar useful by implementing user filtering
 - Upload a user photo
 - Click on the card to access a user profile page
 
