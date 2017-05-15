@@ -1,0 +1,74 @@
+Summer Internship Challenge
+===========================
+
+Requirements
+------------
+
+
+### Install Git
+```
+# For linux users
+$ sudo apt-get install git
+```
+Checkout this link to install Git on other platforms: [Install Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
+
+
+Clone the repository
+--------------------
+
+1. Ask one of the mentors to create a new fork of this repository for yourself with the name **nestsi17-[your name]**
+
+2. Clone the repository on your personal computer
+```
+$ git clone git@github.com:pcioga/nestsi17-[your name].git
+```
+
+
+Challenge
+---------
+
+### Build a static web page
+
+Here's a simple demonstration of a Web Application where you can just add people to a directory.
+
+![Directory](readme/directory.png)
+
+
+1. Start by building a static web page, using only HTML and CSS, mirroring the mockup above. Don't get to much in detail, just keep the same structure.
+
+Fell free to use any CSS frameworks like Bootstrap, Foundation and similar if you are familiar with any.
+
+
+### Build a dynamic web application
+
+2. Now that the main components are in place, continue by adding some dynamic to your application. Try to dinamically serve the contents displayed on the page from a Data Base.
+
+You are free to choose any kind of technologies you're familiar with to achieve this task, be it **Ruby on Rails**, **Sinatra**, **ExpressJS**, **Django**, or any other.
+Also, use whatever DataBase you're used to, be it Relational such as **PostgreSQL** and **MySQL**, document based such as **MongoDB** or any other.
+
+2.1. Bring in a new feature by letting people beeing add to the directory using the form at the end of the page.  
+> If you're unfamiliar with server-side web frameworks, try to use Javascript to implement the same functionality.
+
+Extra:
+
+Done already? You must be some kind of genius! Here are a couple of cmall challenges just to keep you ocupied a little longer:
+
+- Create validations for the form fields
+- On the user card, make the email links fully functional (click to send an email)
+- Make the search bar usefull by implementing user search
+- Upload user photo
+- Click on the card to access user profile page
+
+
+Upload your work
+----------------
+
+When you're done, be sure to upload your work back to Github by committing directly to master or to any other branch of your choice.
+
+Don't forget to include instructions on how to set up your web application for us to be able to run it ourselves in our PCs.
+
+
+Thank You
+----------------
+
+Thanks for spending the day with us and.. Godspeed!
